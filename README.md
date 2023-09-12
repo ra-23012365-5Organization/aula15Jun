@@ -1,5 +1,5 @@
 # aula15Jun
-Área utilizada para a descrição das atividades do slide 14d:
+Área utilizada para a descrição das atividades do slide 14:
 
 Nessa imagem, podemos considerar um exemplo de criação e manutenção 
 de um app através de um repositório e suas ramificações.
