@@ -17,4 +17,14 @@ na branch master, possibilitando a realização de testes, conferências e certi
 por parte da empresa de construção de software para futura disponibilização/instalação do aplicativo 
 no ambiente do cliente/usuário.
 
+Breve descrição sobre mim:
+Um estudante de Análise e Desenvolvimento de Sistemas interessado em aprender,
+dominar novos conceitos, aprender diferentes formas de desenvolver sistemas
+performáticos, alto nível para as corporações das quais faço parte. 
+Meus focos estão em compreender as tendências tecnológicas atuais
+do mercado de TI para me especializar em padrões ou formas diferenciais,
+potencializadoras de negócios e amplificadoras de administração
+dos recursos, materiais, ensumos, capitais ou mãos de obra de contribuição
+humana dentro das empresas ou organizações.
+
 
